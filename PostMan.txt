@@ -18,6 +18,7 @@ create a board
 update a board ( change colours---->green red yellow)
 get a board (name)
 delete a board
+Hiding the last seen 
 
 
 GitHub (Monday)     ( as a Case - study)
