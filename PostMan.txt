@@ -1,0 +1,28 @@
+a069d595ddeb7a7f4058b3fa0dbd4ea5         KEY
+
+ATTA8824a6b81e7de60a017da20a6f794b84de53e463eed466bfdf7c6cf13676bab7B1DEA944     TOKEN
+
+
+HW
+
+200
+201
+300
+400
+401
+404						
+500
+
+postman (
+create a board
+update a board ( change colours---->green red yellow)
+get a board (name)
+delete a board
+
+
+GitHub (Monday)     ( as a Case - study)
+
+create repository
+update repository    
+get repository
+delete repositary
